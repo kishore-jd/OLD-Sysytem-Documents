@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=Dssre34cGaA
+cervix\ncervix_roi\nred_patch\nwhite_patch
+frontend application for object detection yolo v3 model
+Front End Application
+****
+https://medium.com/analytics-vidhya/object-detection-using-yolo-v3-and-deploying-it-on-docker-and-minikube-c1192e81ae7a
+web app 4/8/2020
+https://www.youtube.com/watch?v=lljghGrlYUo
+flask basics
+https://www.youtube.com/watch?v=YERW8H4BjXE&t=521s
+yolo v3
+*******
+https://github.com/Iqbal1282/YoloV3
+
+complete yolo
+************
+https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/
+Fast RCNN
+https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/?utm_source=blog&utm_medium=a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1

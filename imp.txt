@@ -1,0 +1,5 @@
+22512, 22794	 ImportError: DLL load failed: The specified module could not be found
+\preparing own dataset in yolo object detection.
+https://www.youtube.com/watch?v=jpb-z_jvPkA&list=PLqinEaadXCHYwLxaJu-klxDiRvN0-GmtB&index=3
+https://www.youtube.com/watch?v=Ge65ukmJTzQ&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=64
+https://www.youtube.com/watch?v=NsxDrEJTgRw

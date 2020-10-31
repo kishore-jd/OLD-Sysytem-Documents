@@ -1,0 +1,10 @@
+Why learn Machine Learning with Python?
+
+Data Science is a set of techniques that enable the computers to learn 
+the desired behavior from data without explicitly being programmed. 
+It employs techniques and theories drawn from many fields within the broad areas of mathematics,
+statistics, information science, and computer science. This course exposes you to different 
+classes of machine learning algorithms like supervised, unsupervised and reinforcement algorithms.
+This course imparts you the necessary skills like data pre-processing, dimensional reduction,
+model evaluation and also exposes you to different machine learning algorithms like regression,
+clustering, decision trees, random forest, Naive Bayes and Q-Learning.

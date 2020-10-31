@@ -1,0 +1,2 @@
+you only look Once
+https://www.kaggle.com/valentynsichkar/yolo-coco-data#coco.names

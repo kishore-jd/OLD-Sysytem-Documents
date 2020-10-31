@@ -1,0 +1,8 @@
+work status
+**********
+>As I already Uploaded Single class detection by Using yolo.
+>Labeling can be done on yolo formar(Object_id, center_x,center_y,width,height).it will be working well then compare to XML format file.
+>Present  working on Double Class
+>For Thses labeling can be done scratch.it is  also completed
+>In Training i am  facing issue.
+> After Complete That I will Share Links In group 

@@ -1,0 +1,4 @@
+ng g service servicename
+ng g module app module.ts
+\\\
+py source Channel

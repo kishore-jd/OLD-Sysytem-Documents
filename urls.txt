@@ -1,0 +1,39 @@
+https://www.youtube.com/watch?v=NSLcXiwyFYE
+make -nogpu
+https://www.youtube.com/watch?v=zJDUhGL26iU
+https://www.youtube.com/watch?v=P94eQuXxx3g
+Data Camp Urls
+*************
+https://campus.datacamp.com/courses/introduction-to-data-science-in-python/getting-started-in-python?ex=1
+https://learn.datacamp.com/projects/33
+kanna babu
+896-5387-3240
+
+For trained DataSet
+https://www.youtube.com/watch?v=dZ4itBvIjVY&feature=youtu.be
+git credentials
+kishore-developer123
+kishore-developer123
+kishore-developer123
+kishore-developer143
+kishore-developer143
+608 x 608 create 6 permanent cpu-threads
+batch=16
+subdivisions=16
+width=608
+height=608
+batch=1
+subdivisions=1
+width=416
+height=416
+https://www.youtube.com/watch?v=5A4y-lfGCSw&t=1521s
+
+eMaster Class Academy
+6 days ago
+Please add "if len(indexes)>0:" before "for i in indexes.flatten():"
+
+This is to avoid flattening a null value, due to nothing being detected.
+
+Error: You set incorrect value batch=1 for Training! You should set batch=64 subdivision=64 
+
+

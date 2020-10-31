@@ -1,0 +1,23 @@
+
+ROI (region of interest)
+import cv2
+img=cv2.imread('madah.jpg')
+
+b,g,r=cv2.merge((b,g,r))
+
+ball=img[280:340, 430:390]
+img[235:566, 100:260]-ball
+cv2.imshow('image',img)
+cv2.waitkey(0)
+cv2.destroyAllWindows()
+###############
+Addinng two images
+import cv2
+img=cv2.imread('madah.jpg')
+img2=cv2.imread('madah.jpg')
+img=cv2.resize(img1, (512,512))
+img=cv2.resize(img1, (512,512))
+dat=cv2.add(img,img2);
+cv2.imshow('image',dat)
+cv2.waitkey(0)
+cv2.deastroyAllWindows()

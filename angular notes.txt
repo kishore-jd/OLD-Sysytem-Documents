@@ -1,0 +1,2 @@
+ng new myProject --skip-install=true
+https://www.youtube.com/watch?v=ICn15JeCfBc

@@ -1,0 +1,38 @@
+cervix\ncervix_roi\nred_patch\nwhite_patch
+python -m pip install –upgrade pip
+https://www.youtube.com/watch?v=yieJLP_vwbA
+Jp NaN channelto learn machine learning/Unfold Data Science  https://www.youtube.com/c/UnfoldDataScience/playlists
+>> For Pickle https://www.youtube.com/watch?v=oD4IvH-Talo
+>>https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/discussion/35087
+Types of machine learning models
+https://www.justtrustgyanu.com/2020/01/what-is-supervised-machine-learning.html
+curl.exe -X POST -F image=@test1.jpg "http://localhost:5000/api/test" --output test.png
+flower iris prediction
+*********************
+https://www.youtube.com/watch?v=i3RMlrx4ol4
+for face recognigation
+**********************
+https://www.youtube.com/watch?v=h21wMKGs0qs
+
+faster RCNN
+**************
+https://www.youtube.com/watch?v=2TikTv6PWDw
+For Api Project By Jp Bro
+********************
+https://devpyjp.com/flask-python-tutorial-with-news-api-quick-guide-for-beginners/
+For custom data set
+******************
+https://www.youtube.com/watch?v=RFFvMlnAQoI
+Train Custom Object Detection in Hindi YOLO Darknet
+
+Flask file Upload TAsk
+*******************
+https://tutorial101.blogspot.com/2020/03/python-flask-upload-file-and-validate.html
+Succesfull For File Upload validation
+**************
+https://www.roytuts.com/python-flask-file-upload-example/
+************** machine learning Drive link************
+https://drive.google.com/drive/folders/192xjnBjXLfH79OZ0d_PMb1AfOgUEw5U8
+hosted link
+http://ts.icreatech.net:9999/
+https://www.airopd.com/zulu

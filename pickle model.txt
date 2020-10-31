@@ -1,0 +1,36 @@
+1) pickle method
+2) joblib method
+
+let's say your trained machine learning model is "model" then
+
+the codes for saving "model" into a file using pickle method is:
+
+# code for  pickle method
+
+"
+import pickle
+
+# creating/writing binary file 
+
+with open("pickle_model","wb") as f:
+      pickle.dump(model,f)
+
+# reading binary file
+
+with open("pickle_mode","rb") as f:
+     pm=pickle.load(f)
+pm.predict("enter independent variables")
+
+"
+
+similarly the code for saving "model" into a file using joblib method is:
+
+# the code for joblib method..
+
+"
+from sklearn.externals import joblib
+joblib.dump(model,"joblib_model")
+jm=joblib.load("joblib_model")
+jm.predict(" enter the independent variables")
+
+"
